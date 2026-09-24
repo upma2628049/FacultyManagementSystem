@@ -1,0 +1,1 @@
+console.log("Faculty Management System loaded");
